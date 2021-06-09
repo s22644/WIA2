@@ -21,5 +21,5 @@ mov AH, 4Ch
 
 int 21h
 
-plik1 db "Alicja Manuszewska", "$"
+plik1 db "Alicja Manuszewska", "$" ;wyświetla na środku napis
 

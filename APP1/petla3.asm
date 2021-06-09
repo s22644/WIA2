@@ -11,4 +11,4 @@ INC DL
 loop petla
 
 mov AX, 4C00h
-int 21h
+int 21h             ;drukuje ABCDE

@@ -10,5 +10,5 @@ mov AH, 4ch
 
 int 21h
 
-dir1 db "AM44", 0
+dir1 db "AM44", 0 ;usuwa plik AM44
 

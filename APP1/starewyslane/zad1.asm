@@ -10,5 +10,5 @@ mov AH, 4Ch
 
 int 21h
 
-dir1 db "AM44", 0
+dir1 db "AM44", 0 ;tworzy plik o nazwie AM44
 

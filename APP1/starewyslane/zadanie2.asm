@@ -14,4 +14,4 @@ mov AH, 01h
 int 21h
 
 mov AH, 4Ch
-int 21h
+int 21h         ;wyświetla BCD po kliknięciu kończy pracę
